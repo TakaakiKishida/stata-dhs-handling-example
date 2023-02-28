@@ -1,1 +1,1 @@
-# stata-dhs-handling-example
+# DHS data management using Stata and Dropbox
