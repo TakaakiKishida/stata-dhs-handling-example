@@ -1,0 +1,5 @@
+"0","lm(mom_educ ~ treatment + R, data = df) %>% 
+  jtools::summ(digits = 4)
+"
+"2","Error in eval(predvars, data, env) : object 'treatment' not found
+"
